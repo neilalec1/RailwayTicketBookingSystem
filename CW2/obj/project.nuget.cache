@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uMlz28l21Kw315/1jNAV0nK6Hoy0uJCiasdQIRl7c7Z0JotLJBwkM1NzVoeL2RTT691CCy46we3059vZhnZGuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\neila\\Downloads\\CW2\\CW2\\CW2\\CW2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neila\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

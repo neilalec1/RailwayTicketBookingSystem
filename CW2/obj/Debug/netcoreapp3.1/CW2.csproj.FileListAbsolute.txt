@@ -1,0 +1,5 @@
+C:\Users\neila\Desktop\OOSD Coursework 2\CW2\CW2\obj\Debug\netcoreapp3.1\CW2.csproj.AssemblyReference.cache
+C:\Users\neila\Desktop\OOSD Coursework 2\CW2\CW2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\neila\Desktop\OOSD Coursework 2\CW2\CW2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\neila\Desktop\OOSD Coursework 2\CW2\CW2\obj\Debug\netcoreapp3.1\CW2_MarkupCompile.cache
+C:\Users\neila\Desktop\OOSD Coursework 2\CW2\CW2\obj\Debug\netcoreapp3.1\CW2_MarkupCompile.lref
